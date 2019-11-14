@@ -20,4 +20,3 @@ int main(void)
 	
 	return 0;
 }
-This is just a experiment about how to use the github.
